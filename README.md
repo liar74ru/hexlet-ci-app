@@ -1,3 +1,5 @@
+[![run_make](https://github.com/liar74ru/hexlet-ci-app/actions/workflows/run_make.yml/badge.svg)](https://github.com/liar74ru/hexlet-ci-app/actions/workflows/run_make.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
